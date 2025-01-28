@@ -11,7 +11,7 @@ In partnering with Dr. Maidan and Dr. Katzir, the project taps into a wealth of 
 
 ## Features
 This repository provides a structured and comprehensive set of tools designed to optimize EEG data preprocessing and analysis workflows. Here is an overview of the key features associated with each script included in the repository:
-- main: Serves as the entry point for the EEG preprocessing pipeline. This script orchestrates the execution of all preprocessing steps, ensuring that each component of the pipeline is executed in the correct sequence and with the appropriate parameters.
+- *main*: Serves as the entry point for the EEG preprocessing pipeline. This script orchestrates the execution of all preprocessing steps, ensuring that each component of the pipeline is executed in the correct sequence and with the appropriate parameters.
 - process_files: A preprocessing utility that applies initial data cleaning routines to EEG files, preparing them for more detailed analysis such as ICA and ERP extraction.
 - remove_chans: This script offers a method for removing noisy or unwanted channels from EEG datasets before further processing. Effective channel rejection is crucial for maintaining data quality and reliability.
 - perform_ica: Applies Independent Component Analysis (ICA) to EEG datasets to identify and label artifacts and brain sources. This script is essential for the isolation of artifacts which can then be selectively removed to improve data quality.
