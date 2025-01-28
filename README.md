@@ -40,4 +40,6 @@ Contributions are highly appreciated. Please fork this repository, make your imp
 
 
 ## Acknowledgements
-Special thanks to Dr. Zoya Katzir, a PhD researcher, for her significant contributions to the development and testing of these scripts. Her expertise in EEG analysis has been invaluable to this project. This work was also supported by Ichilov Hospital, which provided both data and research collaboration.
+This EEG preprocessing and analysis pipeline was meticulously developed by Ron Montaoriano, whose dedication and expertise have been essential to the project's success. Special thanks to Dr. Zoya Katzir, a PhD researcher, for her significant contributions to the development and testing of these scripts. Her expertise in EEG analysis has been invaluable in refining the functionalities and ensuring the robustness of the pipeline. This work was also supported by Ichilov Hospital, which provided both essential data and opportunities for research collaboration.
+
+In the coming months, we are excited to announce that a research paper detailing the methodologies and findings associated with this pipeline will be published, showcasing the practical applications and scientific insights derived from this project. This publication will further elucidate the significant contributions of this collaborative effort to the field of neuroscientific research.
